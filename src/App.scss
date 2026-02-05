@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.button {
+  margin-top: 2rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background-color: purple;
+  }
+}
+
+small {
+  font-variant: small-caps;
+}

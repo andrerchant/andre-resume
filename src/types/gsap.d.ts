@@ -1,0 +1,25 @@
+declare module 'gsap' {
+  export const gsap: any;
+  export const TweenMax: any;
+  export const TweenLite: any;
+  export const TimelineMax: any;
+  export const TimelineLite: any;
+  export const Power0: any;
+  export const Power1: any;
+  export const Power2: any;
+  export const Power3: any;
+  export const Power4: any;
+  export const Back: any;
+  export const Bounce: any;
+  export const Circ: any;
+  export const Cubic: any;
+  export const Elastic: any;
+  export const Expo: any;
+  export const Linear: any;
+  export const Quad: any;
+  export const Quart: any;
+  export const Quint: any;
+  export const Sine: any;
+  export const SteppedEase: any;
+  export const Strong: any;
+}
