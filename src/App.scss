@@ -7,6 +7,16 @@
   text-align: center;
 }
 
+nav {
+  justify-content: center;
+  gap: 1rem;
+
+  .button{
+    display: flex;
+    text-align: center;
+  }
+}
+
 .button {
   margin-top: 2rem;
   transition: all 0.3s ease;
